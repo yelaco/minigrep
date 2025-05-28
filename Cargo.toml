@@ -1,6 +1,8 @@
 [package]
-name = "minigrep"
+name = "lilgrep"
 version = "0.1.0"
 edition = "2024"
+description = "A minimal command-line tool that searches for lines matching a pattern in a file, similar to grep. Built for simplicity and learning purposes."
+license = "MIT"
 
 [dependencies]
